@@ -18,3 +18,6 @@ Haverá as seguintes tabelas:
 * _Empresa_
 * _Cargo_
 * _Registro_Ponto_
+
+# *MER
+![MRE](..img/MER_Projeto.png)
