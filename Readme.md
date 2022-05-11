@@ -15,7 +15,6 @@ Nosso projeto será uma aplicação de #*Controle Registro de Ponto*
 
 Haverá as seguintes tabelas:
 * _Pessoa_
-* _Pessoa_
 * _Empresa_
 * _Cargo_
 * _Registro_Ponto_
