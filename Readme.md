@@ -19,5 +19,5 @@ Haverá as seguintes tabelas:
 * _Cargo_
 * _Registro_Ponto_
 
-# *MER
-![MRE](..img/MER_Projeto.png)
+### *MER*
+![MRE](img/MER_Projeto.png)
