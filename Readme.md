@@ -1,6 +1,6 @@
 # Grupo Projeto Final de Banco de Dados
 
-# *Projeto final*!  
+## *Projeto final*!  
 Desenvolva um projeto em equipe (tema livre) que aplique todo o conteúdo deste módulo.  
 Banco de Dados (defina um modelo de dados consistente com sua aplicação) Scripts de inicialização dos dados:  
 * Defina um arquivo data.sql para realizar os inserts iniciais da aplicação.  
