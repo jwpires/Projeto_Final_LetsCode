@@ -11,7 +11,7 @@ Banco de Dados (defina um modelo de dados consistente com sua aplicação) Scrip
 
 
 
-Nosso projeto será uma aplicação de #*Controle Registro de Ponto*  
+Nosso projeto será uma aplicação de ### *Controle Registro de Ponto*  
 
 Haverá as seguintes tabelas:  
 * _Pessoa_
