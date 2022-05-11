@@ -21,3 +21,8 @@ HaverÃ¡ as seguintes tabelas:
 
 ### *MER*
 ![MRE](img/MER_Projeto.png)
+
+Autores:  
+José Pires.  
+Gabriel Galvão.  
+Luan Ramalho.
