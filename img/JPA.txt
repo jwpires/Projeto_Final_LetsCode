@@ -1,0 +1,8 @@
+https://start.spring.io/
+
+mysql driver
+spring web
+Spring data JPA
+Spring Boot Actuator 
+jersey
+Flyway Migration
